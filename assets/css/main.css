@@ -100,11 +100,14 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #FEDF1A;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Baskerville', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
+        text-shadow:
+    3px 3px 0 #000, 
+    3px -3px 0 #000;
 	}
 
 	a {
