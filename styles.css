@@ -136,8 +136,8 @@ body {
 }
 
 .img-section img {
-  width: 10rem;
-  height: 8rem;
+  width: 15rem;
+  height: 10rem;
   object-fit: cover;
   margin-bottom: 1rem;
 }
