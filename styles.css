@@ -136,9 +136,8 @@ body {
 }
 
 .img-section img {
-  width: 8rem;
+  width: 10rem;
   height: 8rem;
-  border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
 }
