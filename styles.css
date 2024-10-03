@@ -140,6 +140,7 @@ body {
   height: 10rem;
   object-fit: cover;
   margin-bottom: 1rem;
+ border: 100%;
 }
 
 /*=============== SOCIAL LINKS ===============*/
