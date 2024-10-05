@@ -25,11 +25,3 @@ profile.addEventListener('mouseout', function() {
         profile.src = s;
 });
 
-let title = document.querySelector("#name");
-title.addEventListener("mouseover", function(){
-    title.innerHTML = '<h1>¡Sígueme en Redes Sociales!</h1>';
-});
-title.addEventListener('mouseout', function(){
-    title.innerHTML = 'MissteryAm';
-    console.log("done");
-});
